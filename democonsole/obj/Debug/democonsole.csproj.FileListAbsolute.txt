@@ -1,0 +1,6 @@
+E:\Demo\democonsole\democonsole\bin\Debug\democonsole.exe.config
+E:\Demo\democonsole\democonsole\bin\Debug\democonsole.exe
+E:\Demo\democonsole\democonsole\bin\Debug\democonsole.pdb
+E:\Demo\democonsole\democonsole\obj\Debug\democonsole.csprojResolveAssemblyReference.cache
+E:\Demo\democonsole\democonsole\obj\Debug\democonsole.exe
+E:\Demo\democonsole\democonsole\obj\Debug\democonsole.pdb
